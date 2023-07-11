@@ -16,4 +16,6 @@
 
 
 ## Results
-![Alt Text](C:\Users\amans\Downloads\ScreenShot(11))
+
+![Screenshot (11)](https://github.com/aman-s1/TicTacToe/assets/117725652/f4360638-c6e9-4647-ba2d-0d8b3e1cb2bc)
+![Screenshot (12)](https://github.com/aman-s1/TicTacToe/assets/117725652/2256c39d-7a39-429f-a6c5-e7e0b3817a16)
